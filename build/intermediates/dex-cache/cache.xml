@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_30e4e0b0c609360df882f3fd48155b0c7fd88f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_16701aa09450aa47f3b1ca1bcb563dee45d14fb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_8f90777d932d4132c31f19a9dcac16e314d690b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_1a25cec18ec91cd079d2cfd696e05dae211f1bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_13cd455a534e954f758048dae51f18c78f62ac0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_3ed842cd484a6b3459333d6ae524f930181d5fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\exploded-aar\com.github.lythonliu\CodeLinker\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="447a7a59264bca805f9c186f3bedda222f03d416">
+        <dex dex="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\pre-dexed\debug\com.github.lythonliu-CodeLinker-1.0.5_99101170799cca3f0082314fbd6c1cc9a7485438.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_532805f8597659794f316d89247d85ea8aceb048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_dbb709879fbc74c20ab6180354eca9c026bd0db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_b15c535e29690d2108996a2f625e997f51845752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\projack\as\dncode\arch\24\JSON\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_dc7541645b5c00ebbc40b2ba8ff7bf2eea29a033.jar" />
+    </item>
+
+</items>
